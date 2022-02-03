@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldTests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldTests\obj\Debug\netcoreapp3.1\HelloWorldTests.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldTests\obj\Debug\netcoreapp3.1\HelloWorldTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldTests\obj\Debug\netcoreapp3.1\HelloWorldTests.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldTests\obj\Debug\netcoreapp3.1\HelloWorldTests.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldTests\obj\Debug\netcoreapp3.1\HelloWorldTests.csproj.CoreCompileInputs.cache

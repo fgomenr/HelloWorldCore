@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.exe
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.deps.json
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.runtimeconfig.json
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.dll
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\bin\Debug\netcoreapp3.1\HelloWorldCore.pdb
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.dll
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.pdb
+C:\Users\usuario\Desktop\Entorno de desarollo\UD4\Proyectos\HelloWorldCore\HelloWorldCore\obj\Debug\netcoreapp3.1\HelloWorldCore.genruntimeconfig.cache
